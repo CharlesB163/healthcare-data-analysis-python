@@ -35,7 +35,7 @@ These data-driven insights can enable healthcare organizations to reduce unneces
   ![Cost by Condition](cost_by_chronic_condition_chart.png)
 
   ## Sample Visualization of Dashboard
-  ![Dashboard Screenshot](HealthcareClaimsCostAnalysisDashboard.pdf)
+  ![Dashboard Screenshot]([HealthcareClaimsCostAnalysisDashboard.pdf](https://github.com/CharlesB163/healthcare-claims-analysis/blob/Creating-Database/HealthcareClaimsCostAnalysisDashboard.pdf)
 
   ## Interactive Version
 
