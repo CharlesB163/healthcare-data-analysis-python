@@ -1,5 +1,8 @@
 # Healthcare Claims Cost Analysis
 
+## Business Problem
+A healthcare insurance company struggles with rising claim costs. 
+
 ## Objective
 Analyze healthcare data in claims to highlight key cost drivers and, based on data-driven evidence, provide recommendations to reduce overall healthcare spending while improving patient outcomes and satisfaction.
 
