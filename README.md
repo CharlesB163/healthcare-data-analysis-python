@@ -1,5 +1,7 @@
 # Healthcare Claims Cost Analysis
 
+## Database Creation
+
 ## Business Problem
 A healthcare insurance company struggles with rising claim costs. 
 
@@ -10,6 +12,7 @@ Analyze healthcare data in claims to highlight key cost drivers and, based on da
 - Python (Anaconda, Pandas, Jupyter, NumPy, and Matplotlib)
 - SQL (PostgreSQL and Bash)
 - CSV File
+- Power BI
 
 ## Main Insights
 - Top 20% of patients contribute heavily to healthcare costs
@@ -25,7 +28,21 @@ These data-driven insights can enable healthcare organizations to reduce unneces
 - Jupyter Notebook with fill analysis
 - CSV outputs from analysis
 - Visualizations (Graphs)
+- Power BI File
 
-  ## Sample Visualization
+  ## Sample Visualization of Database
 
-  ![Cost by Condition](cost_by_chronic_condition_chart.png) 
+  ![Cost by Condition](cost_by_chronic_condition_chart.png)
+
+  ## Sample Visualization of Dashboard
+  ![Dashboard Screenshot](HealthcareClaimsCostAnalysisDashboard.pdf)
+
+  ## Interactive Version
+
+ [View Interactive Dashboard on Power BI](https://app.powerbi.com/groups/me/reports/77df9b9b-318d-4032-9d12-d1da1b69b162?ctid=cfa792cf-7768-4341-8857-81754c2afa1f&pbi_source=linkShare)
+
+## How to Run the Project
+1. Open the `.pbix` file in Power BI Desktop to view the dashboard interactively.  
+2. Ensure that the included CSV files (`patients_clean.csv`, `providers_clean.csv`, `claims_clean.csv`) are in the same folder as the `.pbix` file.  
+3. Optionally, Python scripts (`data_cleaning.py`) can be run to generate or update the CSV files from raw simulated data.  
+  
