@@ -44,5 +44,5 @@ These data-driven insights can enable healthcare organizations to reduce unneces
 ## How to Run the Project
 1. Open the `.pbix` file in Power BI Desktop to view the dashboard interactively.  
 2. Ensure that the included CSV files (`patients_clean.csv`, `providers_clean.csv`, `claims_clean.csv`) are in the same folder as the `.pbix` file.  
-3. Optionally, Python scripts (`data_cleaning.py`) can be run to generate or update the CSV files from raw simulated data.  
+3. Optionally, Python scripts (`DataScript.ipynb`) can be run to generate or update the CSV files from raw simulated data.  
   
