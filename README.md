@@ -1,6 +1,7 @@
 # Healthcare Claims Cost Analysis
 
 ## Database Creation
+Data was made with a script.
 
 ## Business Problem
 A healthcare insurance company struggles with rising claim costs. 
