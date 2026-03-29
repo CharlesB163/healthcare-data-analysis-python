@@ -5,7 +5,7 @@
 ## Business Problem
 A healthcare insurance company struggles with rising claim costs. 
 
-## Project OverviewO
+## Project Overview
 Analyze healthcare data in claims to highlight key cost drivers and, based on data-driven evidence, provide recommendations to reduce overall healthcare spending while improving patient outcomes and satisfaction.
 
 ## Tools Used
