@@ -1,6 +1,6 @@
 # Healthcare Claims Cost Analysis
 
-## Database Creation
+## Data Creation
 Data was made with a script.
 
 ## Business Problem
